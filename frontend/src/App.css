@@ -1,0 +1,19 @@
+/* ============admin page=========================== */
+
+.admin_main{
+    margin: auto;
+    width: max-content;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin_main > input {
+    outline: none;
+    padding: .5rem;
+
+}
+
+.create_test{
+    margin-top: 5rem;
+}

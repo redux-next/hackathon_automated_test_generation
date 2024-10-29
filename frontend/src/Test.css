@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  
+  }
+  
+  
+  h1 {
+  
+    text-align: center;
+  
+  }
+  
+  
+  button {
+    margin: 5px;
+    padding: 10px 15px;  
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .option_button{
+    border: 1px solid grey;
+    text-align: left;
+  }
+
+  .main{
+    margin: auto;
+    width: 80%;
+  }
+
+  .optn_button_wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1{
+    padding-bottom: 5rem;
+    color: rgb(0, 17, 255);
+  }
